@@ -1,0 +1,24 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "filename": "x",
+    "datetime": x,
+    "size": x,
+    "url": "x",
+    "github_releases_url": "https://github.com/xiaomi-mt6781-dev/releases/releases",
+    "fastboot_package_url": null,
+    "filehash": "x",
+    "id": "x",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "nokidevz",
+            "name": "Noki"
+        }
+    ],
+    "last_updated": "22 September 2024",
+    "donate_url": null,
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": null
+}
