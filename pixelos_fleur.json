@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_fleur-14.0-20240922-1519.zip",
-    "datetime": 1727018162,
-    "size": 1845844899,
-    "url": "https://github.com/xiaomi-mt6781-dev/releases/releases/download/PixelOS/PixelOS_fleur-14.0-20240922-1519.zip",
+    "filename": "PixelOS_fleur-14.0-20240922-1635.zip",
+    "datetime": 1727022949,
+    "size": 1845845335,
+    "url": "https://github.com/xiaomi-mt6781-dev/releases/releases/download/PixelOS/PixelOS_fleur-14.0-20240922-1635.zip",
     "github_releases_url": "https://github.com/xiaomi-mt6781-dev/releases/releases",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "976157a129fd2c513dd2ae9ca3597b95",
-    "id": "8b5e4559f7719a5ac9dc310b03ef073f7b1469a601c40c94aab280ef5f058722",
+    "filehash": "6f087e1abc7ad65276b4672902f99aed",
+    "id": "13098d69f0cbc53098f48813a9c5a6260df0b83ee90ee8195781a29155872c8f",
     "maintainers": [
         {
             "main_maintainer": true,
